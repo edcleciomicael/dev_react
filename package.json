@@ -1,0 +1,8 @@
+{
+  "name": "dev_react",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/edcleciomicael/dev_react.git",
+  "author": "edcleciomicael <edcleciomicael@gmail.com>",
+  "license": "MIT"
+}
